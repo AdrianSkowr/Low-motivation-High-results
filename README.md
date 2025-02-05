@@ -1,5 +1,9 @@
 # Low motivation - High results  
-Data source: https://www.kaggle.com/datasets/lainguyn123/student-performance-factors
+## Dataset and Methodology
+
+The dataset used in this analysis was sourced from Kaggle: [Student Performance Factors](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors).
+
+The methodology involved cleaning and analyzing the data using Excel. Key factors were examined to determine their impact on student success, particularly in relation to motivation levels.
 
 ## 1. Does Motivation Play a Key Role for Students?  
 
@@ -37,3 +41,5 @@ Attending classes and consistently reviewing acquired knowledge have a **signifi
 💡 **Before opting for expensive tutoring, consider whether you have fully utilized the available resources**, such as:  
 ✅ **Regular class attendance**  
 ✅ **Reinforcing knowledge through self-study**  
+
+All tables and charts supporting these conclusions can be found in the 'tables_and_charts' file included in this repository.
